@@ -1,5 +1,4 @@
-# mern-ecommerce-website
-A comprehensive MERN stack e-commerce app tutorial covering product management, user authentication, and payment integration.
+## A comprehensive MERN stack e-commerce app tutorial covering product management, user authentication, and payment integration.
 
 # Highlights
 🛒 Implementing an e-commerce app from scratch using MERN stack.

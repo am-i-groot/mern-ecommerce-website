@@ -1,6 +1,7 @@
-## A comprehensive MERN stack e-commerce app tutorial covering product management, user authentication, and payment integration
+# E-commerce Web Application
+### A comprehensive MERN stack e-commerce app tutorial covering product management, user authentication, and payment integration
 
-# Highlights
+### Highlights:
 🛒 Implementing an e-commerce app from scratch using MERN stack.<br/>
 🛠️ Features include an admin panel for product and order management.<br/>
 💳 Integration of PayPal for checkout and payment processing.<br/>
@@ -9,7 +10,7 @@
 🌐 Image upload functionality with Cloudinary for product visuals.<br/>
 ⚡ User reviews and ratings implementation for product feedback.<br/>
 
-# Key Insights
+### Key Insights:
 🚀 Full-Stack Development: Building a full e-commerce application demonstrates the integration of frontend and backend technologies, enhancing your development skills.<br/>
 <br/>
 🔐 Authentication & Security: Managing user authentication and roles is crucial for protecting sensitive data and ensuring secure transactions in an e-commerce platform.<br/>

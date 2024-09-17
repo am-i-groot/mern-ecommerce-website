@@ -1,3 +1,4 @@
+### E-commerce Web Application
 ## A comprehensive MERN stack e-commerce app tutorial covering product management, user authentication, and payment integration
 
 # Highlights
